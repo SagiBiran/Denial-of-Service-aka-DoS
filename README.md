@@ -2,9 +2,6 @@
 # MSHTML Vulnerability
 ##### _POC & Mitigating the attack_
 
-<p align="left">
-  <img width="256" height="256" src="https://cdn-dgcnf.nitrocdn.com/zgBEzIBknfYQCyvgrGtQGfEsNIeflida/assets/static/optimized/rev-08f9567/wp-content/uploads/2022/06/download.jpg">
-</p>
 
 
 <p align="left">
